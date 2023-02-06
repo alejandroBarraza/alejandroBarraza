@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ale👨🏻‍💻</h1>
-<h3 align="center">Full-stack software engineer specializing in ReactJS/TypeScript, NodeJS and Python. Passionate about delivering innovative solutions through use of latest tech. Experienced in creating scalable and robust applications.</h3>
+<h2 align="center">Hi 👋, I'm Ale👨🏻‍💻</h1>
+<h4 align="center">Full-stack software engineer specializing in ReactJS/TypeScript, NodeJS and Python. Passionate about delivering innovative solutions through use of latest tech. Experienced in creating scalable and robust applications.</h3>
+
+<h5 align="center"> Actually Focus on Practicing Leetcode for Improved Performance in Upcoming Coding Interviews</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
